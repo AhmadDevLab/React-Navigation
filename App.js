@@ -1,6 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import Routes from './src/Navigations/Routes'
+
+import { TabRoutes , Routes } from './src/Navigations'
 
 const App = () => {
   return (
